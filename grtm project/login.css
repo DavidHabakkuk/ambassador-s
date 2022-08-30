@@ -1,0 +1,38 @@
+.container{
+    display: block;
+    margin-top: 16.10%;
+    margin-left: 40%;
+    background-color: gold;
+    width: 20%;
+}
+.container input{
+    margin: 20px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: green;
+}
+.container button{
+    margin-left: 50px;
+    width: 60%;
+    padding: 10px;
+    background-color: red;
+
+}
+.container .one{
+    float: right;
+    margin-right: 4px;
+}
+.container .one a{
+    text-decoration: none;
+    text-align: center;
+}
+.container .two{
+    text-align: center;
+}
+.container .two a{
+    text-decoration: none;
+}
+.login h1{
+    text-align: center;
+}

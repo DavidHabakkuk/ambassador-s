@@ -1,0 +1,33 @@
+.container h1{
+    text-align: center;
+}
+.container p{
+    word-spacing: 5px;
+    width: 70%;
+    margin-left: 25%;
+}
+.first-part img{
+    height: 10vh;
+    width: 10%;
+}
+.container img{
+    height: 67vh;
+    width: 100%;
+}
+.container h2{
+    text-align: center;
+    color: #ffd700;
+    margin-right: 25%;
+    font-size: 30px;
+}
+.container h1{
+    text-align: center;
+    color: #ffd700;
+}
+.first-part img{
+    height: 20vh;
+    width: 10%;
+}
+.first-part p{
+    margin-right: 20%;
+}
